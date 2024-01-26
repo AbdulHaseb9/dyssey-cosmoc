@@ -7,7 +7,8 @@ export default {
         xs: "425px",
       },
       backgroundImage: {
-        hero: "./src/assets/images/herobg.png",
+        "hero-pattern": "url('./src/assets/images/herobg.png')",
+        // 'footer-texture': "url('/img/footer-texture.png')",
       },
     },
   },
