@@ -8,7 +8,7 @@ export default {
       },
       backgroundImage: {
         "hero-pattern": "url('./src/assets/images/herobg.png')",
-        // 'footer-texture': "url('/img/footer-texture.png')",
+        'background-two': "url('./src/assets/images/background2.png')",
       },
     },
   },
