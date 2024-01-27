@@ -11,7 +11,6 @@ export const Footer = () => {
                     </div>
                     <div>
                         <ul className='lg:flex lg:items-start'>
-                            <li><a href="#" className='text-sm hover:text-gray-700 transition-all duration-150 px-3'>Connected</a></li>
                             <li className='my-2 lg:my-0'><a href="#" className='text-sm hover:text-gray-700 transition-all duration-150 px-3'>Education</a></li>
                             <li className='my-2 lg:my-0'><a href="#" className='text-sm hover:text-gray-700 transition-all duration-150 px-3'>Community</a></li>
                             <li className='my-2 lg:my-0'><a href="#" className='text-sm hover:text-gray-700 transition-all duration-150 px-3'>About</a></li>
@@ -26,7 +25,7 @@ export const Footer = () => {
                 </div>
             </div>
             <div className='text-center mt-4 py-2 border-y'>
-                <a href="#">haseebsheikh2380@gmail.com</a>
+                <a href="mailto:haseebsheikh2380@gmail.com">&copy; haseebsheikh2380@gmail.com</a>
             </div>
         </>
     )

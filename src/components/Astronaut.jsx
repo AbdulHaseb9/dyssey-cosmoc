@@ -21,7 +21,7 @@ export const Astronaut = () => {
                 </div>
                 <div className='w-full md:w-1/2 flex justify-center relative'>
                     <img src={heroastronaut} alt="Dyssey Astronaut Image" className='absolute -top-40 sm:-top-80 lg:-top-[24rem] lg:w-[500px]' />
-                    <img src={herotime} alt="Time in Space" className='mt-24 xs:mt-32 sm:mt-0 z-10 md:h-[100px]' />
+                    <img src={herotime} alt="Time in Space" className='mt-24 xs:mt-32 sm:mt-0 lg:mt-10 z-10 md:h-[100px]' />
                     <img src={heroexcercising} alt="Excercising on Space" className='absolute -top-10 md:-top-48 -right-5 xs:right-0  w-40 lg:w-48 z-20' />
                     <img src={herowalks} alt="Excercising on Space" className='absolute -top-0 md:-top-32 -left-5 xs:left-0 w-40 lg:w-48 z-20' />
                 </div>
