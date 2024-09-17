@@ -2,7 +2,7 @@ import React from 'react'
 
 export const About = () => {
     return (
-        <div className='px-6 xs:px-8 md:px-12 py-10'>
+        <div id='about' className='px-6 xs:px-8 md:px-12 py-10'>
             <div className='w-full grid gap-7 grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>
                 <section className='p-5 shadow-md rounded-lg'>
                     <div>

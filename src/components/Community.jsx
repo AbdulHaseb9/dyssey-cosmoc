@@ -7,7 +7,7 @@ import { IoIosRocket } from "react-icons/io";
 
 export const Community = () => {
     return (
-        <div className='px-6 xs:px-8 md:px-12 py-8'>
+        <div id='community' className='px-6 xs:px-8 md:px-12 py-8'>
             <div className='w-full md:flex'>
                 <div className='w-full md:w-1/2'>
                     <h2 className='text-4xl font-bold md:pr-5'>Join our vibrant community

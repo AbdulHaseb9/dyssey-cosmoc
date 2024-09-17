@@ -13,10 +13,10 @@ export const Navbar = () => {
                     <img src={logo} alt="Dyssey logo" className='w-32' />
                 </div>
                 <div className='hidden md:block'>
-                    <a href="#" className='px-1 mx-1 lg:mx-4 font-semibold'>Connected</a>
-                    <a href="#" className='px-1 mx-1 lg:mx-4 font-semibold'>Education</a>
-                    <a href="#" className='px-1 mx-1 lg:mx-4 font-semibold'>Community</a>
-                    <a href="#" className='px-1 mx-1 lg:mx-4 font-semibold'>About</a>
+                    <a href="#join-community" className='px-1 mx-1 lg:mx-4 font-semibold'>Connected</a>
+                    <a href="#education" className='px-1 mx-1 lg:mx-4 font-semibold'>Education</a>
+                    <a href="#community" className='px-1 mx-1 lg:mx-4 font-semibold'>Community</a>
+                    <a href="#about" className='px-1 mx-1 lg:mx-4 font-semibold'>About</a>
                 </div>
                 <div>
                     <div className='hidden md:block'>
